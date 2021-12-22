@@ -54,10 +54,6 @@ export const Container = styled.div`
   } 
 `
 
-const colors = {
-  grass: "green"
-}
-
 export const TypeList = styled.li`
     list-style-type: none;
     margin-left: 0.5rem;

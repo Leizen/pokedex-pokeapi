@@ -1,5 +1,4 @@
 import { Container } from "./styles";
-import squirtle from "./assets/squirtle.svg";
 
 interface InfoPokeImageProps {
   sprites: {
